@@ -11,7 +11,7 @@
 \text{\Large{\sf{Élève à CESI Rouen}}}
 ```
 <div align="center">
-  <a rel="me" href="https://social.stratus.family/@charlesp">
+  <a rel="me" href="https://fedi.stratus.family/@charlesp">
     <img src='https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white'
       alt='Mastodon'>
   </a>
