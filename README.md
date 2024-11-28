@@ -6,16 +6,16 @@
 ```math
 \text{\Huge{\sf{Charles P.}}}
 ```
-<!---GitHub supporte pas les sauts de lignes donc on ferme le bloc pour en ouvrir une autre, chiant/20-->
+<!---GitHub supporte pas les sauts de lignes donc on ferme le bloc pour en ouvrir une autre-->
 ```math
 \text{\Large{\sf{Élève à CESI Rouen}}}
 ```
 <div align="center">
-  <a rel="me" href="https://fedi.stratus.family/@charlesp">
+  <a rel="me" href="https://mastodon.altearn.xyz/@charlesp">
     <img src='https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white'
       alt='Mastodon'>
   </a>
-  <a href="https://matrix.to/@charlesp:stratus.family">
+  <a href="https://matrix.to/@charlesp:matrix.fdn.fr">
     <img src='https://img.shields.io/badge/-MATRIX-424B54?style=for-the-badge&logo=matrix&logoColor=white'
       alt= 'Matrix'>
   </a>
